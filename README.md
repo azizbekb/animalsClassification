@@ -1,2 +1,2 @@
 # animalsClassification
-Transport Classification Model
+Animal Classification Model
